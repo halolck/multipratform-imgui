@@ -1,0 +1,21 @@
+# ninja log v5
+4	1371	7245707991818003	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	897dc3ce4bb6e3d7
+4	366	7245711360726328	CMakeProject1/CMakeProject1.exe	ef035ac05737782a
+26	814	7245700076721672	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_tables.cpp.obj	dbec16642e6788e8
+39	875	7245700077855742	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_demo.cpp.obj	95295de3950af053
+10	810	7245700076772899	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_impl_opengl3.cpp.obj	9fb38e95b23e3b0e
+22	830	7245700077300590	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_draw.cpp.obj	391c11dee647ae80
+15	903	7245700078159064	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_impl_sdl2.cpp.obj	48e4d60d4a85e7fb
+31	867	7245700077774618	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui_widgets.cpp.obj	f934b5508ccff674
+7	811	7245698026168554	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_impl_opengl3.cpp.obj	d30e5ea07ed459d3
+21	836	7245698027324629	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_tables.cpp.obj	d543ec542ff2a41c
+17	860	7245698027799547	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_draw.cpp.obj	fb4ba052571a28d8
+25	866	7245698027861140	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_widgets.cpp.obj	f4f2793251b1cb17
+30	893	7245698028117828	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_demo.cpp.obj	2c9a981786130b7b
+10	969	7245698028916793	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui_impl_sdl2.cpp.obj	6edb4559faeceb64
+14	1237	7245698031590372	CMakeProject1/CMakeFiles/TestImGui.dir/imgui/imgui.cpp.obj	1b5bc81e1b146fe1
+19	1239	7245700081498921	CMakeProject1/CMakeFiles/CMakeProject1.dir/imgui/imgui.cpp.obj	73824f9acc8b231e
+3	1163	7245712513330202	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	897dc3ce4bb6e3d7
+1163	1324	7245712514621964	CMakeProject1/CMakeProject1.exe	ef035ac05737782a
+13	1347	7245712765112060	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	897dc3ce4bb6e3d7
+1347	1506	7245712766400153	CMakeProject1/CMakeProject1.exe	ef035ac05737782a
